@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Thank You For Your Payment!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          "we will be in contact with you soon!"
         </p>
       </main>
 
